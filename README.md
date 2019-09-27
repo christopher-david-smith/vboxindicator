@@ -11,4 +11,14 @@ An [Argos](https://github.com/p-e-w/argos) extension that allows you to quickly 
 - Download `vboxindicator.+.sh` to `~/.config/argos/` and make it executable
 
 ## Screenshots
+Controlling an already running virtual machine
 
+![running_vm](https://raw.githubusercontent.com/christopherdavidsmith/vboxindicator/master/images/vboxindicator_screenshot_running.png)
+
+Controlling a virtual machine that is currently paused
+
+![paused_vm](https://raw.githubusercontent.com/christopherdavidsmith/vboxindicator/master/images/vboxindicator_screenshot_paused.png)
+
+Controlling a virtual machine that is in a saved state or powered off 
+
+![stopped_vm](https://raw.githubusercontent.com/christopherdavidsmith/vboxindicator/master/images/vboxindicator_screenshot_stopped.png)
