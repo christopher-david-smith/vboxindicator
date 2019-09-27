@@ -1,5 +1,5 @@
 # vboxindicator
-An [Argos](https://github.com/p-e-w/argos) extension that allows you to quickly and easily manage your virtual machines.
+An [Argos](https://github.com/p-e-w/argos) extension that allows you to quickly and easily manage your (virtualbox) virtual machines.
 
 ## Features
 - Stop, start, and restart virtual machines
