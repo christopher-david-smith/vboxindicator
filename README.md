@@ -12,4 +12,5 @@ An [Argos](https://github.com/p-e-w/argos) extension that allows you to quickly 
 
 ## Demo
 Here's a quick demo of the extension in action
-![demo](https://raw.githubusercontent.com/christopherdavidsmith/vboxindicator/master/images/demo.mov)
+
+https://github.com/christopher-david-smith/vboxindicator/assets/29237736/1ec27c41-e4de-4e15-a4d7-73cba0fc552d
