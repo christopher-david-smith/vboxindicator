@@ -12,4 +12,4 @@ An [Argos](https://github.com/p-e-w/argos) extension that allows you to quickly 
 
 ## Demo
 Here's a quick demo of the extension in action
-![demo](https://raw.githubusercontent.com/christopherdavidsmith/vboxindicator/master/images/demo.webm)
+![demo](https://raw.githubusercontent.com/christopherdavidsmith/vboxindicator/master/images/demo.mov)
